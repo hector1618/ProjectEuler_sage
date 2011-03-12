@@ -1,0 +1,5 @@
+This is a folder containing solutions of some of the Problems of ProjectEuler.net solved in Sage. My main intension is to explore the Sage and hence I tried to use as much built in functions as I can without bothering to write it myself.
+
+To use the files, open sage terminal. 
+sage :cd /PATH_WHERE_U_STORE_THESE_FILES/
+sage :load Problem001.sage
